@@ -1,9 +1,6 @@
 '''
 ========================================================================================================================
 Name: Mahathir Maxim
-NetId: MHM180000
-Date: 01/30/2022
-HW:1
 
 Documentation:
 It was created as a pycharm project using python 3
